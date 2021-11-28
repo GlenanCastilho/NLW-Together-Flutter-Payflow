@@ -19,9 +19,13 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>cupertino_icons</li>
+  <li>google_fonts</li>
+  <li>firebase_core</li>
+  <li>google_sign_in</li>
+  <li>shared_preferences</li>
+  <li>google_ml_kit</li>
+  <li>image_picker</li>
 </ul>
 
 <br>
@@ -29,8 +33,8 @@
 <h1>📚 Requisitos</h1>
 
 <ul>
-  <li></li>
-  <li></li>
+  <li>Git</li>
+  <li>Flutter</li>
  </ul>
 
    <br>
@@ -40,12 +44,12 @@
 <h4>
   Instalar as dependências:
   <br>
-  $ yarn
+  $ flutter pub get
   
   <br>
   <br>
   
-  Rodar a aplicação:
+  Inicie o app: 
   <br>
-  $ yarn
+  $ flutter run
 </h4>
